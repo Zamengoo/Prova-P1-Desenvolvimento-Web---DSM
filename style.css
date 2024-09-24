@@ -1,0 +1,15 @@
+h1 {
+    font-size: 16px;
+    color:blue;
+}
+.container {
+    display:flex;
+    justify-content: space-between;
+}
+img {
+    width:250px;
+    height:250px;
+}
+p {
+    text-align: justify;
+}
